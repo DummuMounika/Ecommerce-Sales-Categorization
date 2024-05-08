@@ -1,0 +1,5 @@
+sold as set
+lost
+display
+missing
+damage
